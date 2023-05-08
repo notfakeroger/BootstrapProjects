@@ -1,1 +1,3 @@
-## Simple Project that I made using HTML and Bootstrap!
+## Simple Project 
+
+I'm studying bootstrap and I did a project using what I learned.
